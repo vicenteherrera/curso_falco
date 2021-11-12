@@ -1,10 +1,10 @@
 ---
 layout: frontpage
 title: Curso Falco
-description: Runtime Security en Containers y Kubernetes con Falco
+description: Runtime Security en Hosts, Containers, Kubernetes y Cloud con Falco
 ---
 
-# Runtime Security en Containers y Kubernetes con Falco
+# Curso de runtime security en hosts, containers, Kubernetes y cloud con Falco
 
 Autor: **Vicente Herrera** - [@vicen_herrera](https://twitter.com/vicen_herrera)  
 Nivel: **Intermedio**  
