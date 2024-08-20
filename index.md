@@ -6,7 +6,7 @@ description: Runtime Security en Hosts, Containers, Kubernetes y Cloud con Falco
 
 # Curso de runtime security en hosts, containers, Kubernetes y cloud con Falco
 
-Autor: **Vicente Herrera** - [@vicen_herrera](https://twitter.com/vicen_herrera)  
+Autor: **Vicente Herrera** - [@v1z3n](https://twitter.com/v1z3n)  
 Nivel: **Intermedio**  
 Requisitos: Conocimientos básicos de containers y Kubernetes  
 Conocimientos: <span class="badge rounded-pill bg-danger white" style="color:white">Falco</span> 
